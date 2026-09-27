@@ -25,8 +25,8 @@ This is not an exhaustive academic treatment of digital forensics. It is a worki
 
 | File | Covers |
 |---|---|
-| [`Introduction_to_Digital_Forensics_01.md`](./Introduction_to_Digital_Forensics_01.md) | Core concepts, the forensic process, evidence types, and why digital forensics matters to a SOC |
-| [`Windows_Forensics_Overview_02.md`](./Windows_Forensics_Overview_02.md) | NTFS artifacts, Windows Event Logs, execution artifacts (Prefetch, Shimcache, Amcache, UserAssist), persistence mechanisms, browser forensics, and SRUM |
+| [`01Introduction_to_Digital_Forensics.md`](./01_Introduction_to_Digital_Forensics.md) | Core concepts, the forensic process, evidence types, and why digital forensics matters to a SOC |
+| [`02_Windows_Forensics_Overview.md`](./02_Windows_Forensics_Overview.md) | NTFS artifacts, Windows Event Logs, execution artifacts (Prefetch, Shimcache, Amcache, UserAssist), persistence mechanisms, browser forensics, and SRUM |
 
 <br>
 
